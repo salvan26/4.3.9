@@ -11,8 +11,8 @@
 Качаем Postman, дальше все запросы отправляем с его помощью
 Смотрим документацию
 Регистрируемся (Registration)
-![Image alt](https://github.com/salvan26/4.3.9/blob/main/photo_5194976589526460779_y.jpg)
+![first](https://github.com/salvan26/4.3.9/blob/main/photo_5194976589526460779_y.jpg)
 Логинимся (Authentication)
-![Image alt](/4.3.9/blob/main/photo_5194976589526460792_y.jpg)
+![second](https://github.com/salvan26/4.3.9/blob/main/photo_5194976589526460792_y.jpg)
 Используя заголовок авторизации получить данные текущего пользователя (Endpoints -> Get Current User)
-![Image alt](https://github.com/4.3.9/blob/main/photo_5194976589526460915_w.jpg)
+![threed](https://github.com/salvan26/4.3.9/blob/main/photo_5194976589526460915_w.jpg)
